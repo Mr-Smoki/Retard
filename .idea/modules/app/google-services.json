@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "920301788786",
+    "firebase_url": "https://retard-9be12.firebaseio.com",
+    "project_id": "retard-9be12",
+    "storage_bucket": "retard-9be12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920301788786:android:10ad87822f39d42cc52ceb",
+        "android_client_info": {
+          "package_name": "com.example.retard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920301788786-dplrdrg2kijij05f4b1s59hdgh16svlm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.retard",
+            "certificate_hash": "5f34f1c77c632a58e7a7a9906ca5faefae5be5cd"
+          }
+        },
+        {
+          "client_id": "920301788786-pcau77bev98prniop6poo7fgt2vmcg44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnYTbYmteriz2KzP7rOqejfO8ElNOqnhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920301788786-pcau77bev98prniop6poo7fgt2vmcg44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
